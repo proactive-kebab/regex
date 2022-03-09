@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://regex101.com/static/assets/sitemap.xml
